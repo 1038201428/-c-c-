@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+*.recipe
+ipch/
+
+# Other
+Thumbs.db
